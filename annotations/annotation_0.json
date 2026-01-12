@@ -6,80 +6,195 @@
   },
   "widgets": [
     {
-      "id": "entry_1",
-      "type": "Entry",
-      "text": "",
-      "bbox": {
-        "x_min": 161,
-        "y_min": 0,
-        "x_max": 298,
-        "y_max": 76
-      }
-    },
-    {
-      "id": "button_1",
-      "type": "Button",
-      "text": "vgmVDDqckNEzQf",
-      "bbox": {
-        "x_min": 768,
-        "y_min": 0,
-        "x_max": 937,
-        "y_max": 114
-      }
-    },
-    {
       "id": "label_1",
       "type": "Label",
-      "text": "MHqBA",
+      "text": "UijRphjStmiOn",
+      "color": "#c0bf9e",
       "bbox": {
-        "x_min": 1160,
-        "y_min": 768,
-        "x_max": 1265,
-        "y_max": 864
+        "x_min": 0,
+        "y_min": 560,
+        "x_max": 165,
+        "y_max": 654
       }
     },
     {
       "id": "label_2",
       "type": "Label",
-      "text": "jHYriIutJphowL",
+      "text": "DkQduIw",
+      "color": "#c0bf9e",
       "bbox": {
-        "x_min": 1265,
-        "y_min": 76,
-        "x_max": 1536,
-        "y_max": 114
+        "x_min": 165,
+        "y_min": 0,
+        "x_max": 263,
+        "y_max": 89
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "PiYtWYTSOpTN",
+      "color": "#c0bf9e",
+      "bbox": {
+        "x_min": 263,
+        "y_min": 237,
+        "x_max": 409,
+        "y_max": 287
       }
     },
     {
       "id": "label_3",
       "type": "Label",
-      "text": "mlKZKoIUAtpXidw",
+      "text": "IfOucCvWbgHttCj",
+      "color": "#c0bf9e",
       "bbox": {
-        "x_min": 1265,
-        "y_min": 270,
-        "x_max": 1536,
-        "y_max": 360
+        "x_min": 409,
+        "y_min": 0,
+        "x_max": 600,
+        "y_max": 141
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 409,
+        "y_min": 237,
+        "x_max": 1333,
+        "y_max": 560
+      },
+      "structure": {
+        "rows": 7,
+        "cols": 5,
+        "headers": [
+          "ohzz",
+          "jeBOc",
+          "SMWQvMNb",
+          "SWPKfE",
+          "WkTIXywY"
+        ],
+        "data": [
+          [
+            "eKtOgIBJZIhp",
+            "dBzec",
+            "CsbSwIE",
+            "tffWrrsxlQ",
+            "eIQEjRJaxG"
+          ],
+          [
+            "rbWPjKKv",
+            "azggq",
+            "ZFQnKeVwRP",
+            "UUAVH",
+            "eBKSOqxzfh"
+          ],
+          [
+            "lJm",
+            "DIowwdDtL",
+            "Cte",
+            "jbJxFBqMXKUB",
+            "TzLZRK"
+          ],
+          [
+            "oUaGQ",
+            "lccCsrMTnXbg",
+            "zjUpz",
+            "PFmPnIxz",
+            "FTWothsYs"
+          ],
+          [
+            "AAaBfvhVZIB",
+            "RSbS",
+            "UhU",
+            "VxCX",
+            "coYBJx"
+          ],
+          [
+            "ZOfZDH",
+            "OqoMRamcHfUL",
+            "sUDOJSKNXJE",
+            "pDz",
+            "YmKSfZgc"
+          ],
+          [
+            "gvAZKd",
+            "YydPVLLjiLC",
+            "NKjqe",
+            "aArfDFCKpX",
+            "SLDahflAMq"
+          ]
+        ]
       }
     },
     {
       "id": "label_4",
       "type": "Label",
-      "text": "DmPYcMVsFo",
+      "text": "ldBBehubZvruHjm",
+      "color": "#c0bf9e",
       "bbox": {
-        "x_min": 1265,
-        "y_min": 432,
-        "x_max": 1536,
-        "y_max": 529
+        "x_min": 1020,
+        "y_min": 0,
+        "x_max": 1214,
+        "y_max": 89
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "vqnvmvW",
+      "color": "#c0bf9e",
+      "bbox": {
+        "x_min": 1020,
+        "y_min": 699,
+        "x_max": 1214,
+        "y_max": 864
       }
     },
     {
       "id": "label_5",
       "type": "Label",
-      "text": "fzLvzL",
+      "text": "UoHqJ",
+      "color": "#c0bf9e",
       "bbox": {
-        "x_min": 1265,
-        "y_min": 768,
+        "x_min": 1333,
+        "y_min": 0,
         "x_max": 1536,
-        "y_max": 864
+        "y_max": 89
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "dEEJGI",
+      "color": "#c0bf9e",
+      "bbox": {
+        "x_min": 1333,
+        "y_min": 237,
+        "x_max": 1536,
+        "y_max": 287
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "OCgXf",
+      "color": "#c0bf9e",
+      "bbox": {
+        "x_min": 1333,
+        "y_min": 418,
+        "x_max": 1536,
+        "y_max": 505
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "rawdY",
+      "color": "#c0bf9e",
+      "bbox": {
+        "x_min": 1333,
+        "y_min": 505,
+        "x_max": 1536,
+        "y_max": 560
       }
     }
   ]
